@@ -11,7 +11,7 @@ int main() {
     }
     } while(1);
     {
-        printf("dhyey loddu");
+        printf("maitri loddu");
     }
 return 0;
     
